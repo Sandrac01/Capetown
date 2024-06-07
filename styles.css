@@ -1,0 +1,68 @@
+body {
+margin: 40px;
+
+}
+h4 {
+  font-size: 18px;
+  opacity: 0.3;
+}
+h3 {
+  opacity: 0.3;
+}
+.city {
+    margin-top: -40px;
+width: 1450px;
+height: 600px;
+
+}
+div {
+  position: relative;
+    display: inline-block;  
+}
+ .image-text {
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .btn {
+padding: 10px 35px;
+border-radius: 4px;
+font-size: 18px;
+color: #272044;
+margin-left: 120px;
+  }
+  .town {
+    width: 600px;
+    margin-top: 40px;
+  }
+  .infor {
+    background-color: white;
+    margin-left: 80px;
+    margin-top: 45px;
+    opacity: 0.3;
+  }
+  .boulders {
+    width: 400px;
+    height: 300px;
+  }
+  .wine {
+    width: 400px;
+    height: 300px;
+  }
+  .waterfront {
+    width: 400px;
+    height: 300px;
+  }
+  .hero {
+    background-color: var(--secondary-color);
+    text-align: center;
+    padding: 60px 20px;
+}
+.extension {
+  padding: 5px 100px;
+}
